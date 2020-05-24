@@ -16,7 +16,7 @@ namespace WindowsFormsApp2
         {
             InitializeComponent();
             button1_Click(null, null);
-            timer1.Interval = 2000;
+            timer1.Interval = 200000;
             timer1.Enabled = true;
         }
 
