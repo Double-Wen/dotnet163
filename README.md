@@ -10,11 +10,23 @@
 
 作业为延迟上交, 没有具体的分数, 具体代码老师可以直接看代码
 
-第一章作业: [ConsoleApp3](./ConsoleApp3)
+第一章作业: [WindowsFormsApp1](./WindowsFormsApp1)
+
+第二章作业: [WindowsFormsApp2](./WindowsFormsApp2)
+
+第三章作业: [ConsoleApp3](./ConsoleApp3)
+
+第四章作业: [ConsoleApp4](./ConsoleApp4/Program.cs)
+
+第五章作业: [WindowsFormsApp3](./WindowsFormsApp3)
+
+第六章作业: [WindowsFormsApp4](./WindowsFormsApp4)
+
+第七章作业: [WindowsFormsApp5](./WindowsFormsApp5)
 
 
 
-
+关于测验, 均为延迟上交, 每讲均措1-2题, 保守来说, 可以按照85分计算, 具体老师可以查看下方详细截图
 
 #### Video Study Screenshot
 
