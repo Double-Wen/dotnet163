@@ -32,7 +32,7 @@
 
 但保守来说, 可以按照85分计算, 
 
-具体老师可以查看下方详细截图
+具体老师可以[查看下方详细截图](#exam-score-screenshot)
 
 #### Video Study Screenshot
 
