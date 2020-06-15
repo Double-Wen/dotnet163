@@ -1,0 +1,10 @@
+C:\Users\l\Desktop\大二第二学期课程资料\c#\代码部分\控制台项目\paint_tree\paint_tree\obj\Debug\paint_tree.csprojAssemblyReference.cache
+C:\Users\l\Desktop\大二第二学期课程资料\c#\代码部分\控制台项目\paint_tree\paint_tree\obj\Debug\paint_tree.Form1.resources
+C:\Users\l\Desktop\大二第二学期课程资料\c#\代码部分\控制台项目\paint_tree\paint_tree\obj\Debug\paint_tree.Properties.Resources.resources
+C:\Users\l\Desktop\大二第二学期课程资料\c#\代码部分\控制台项目\paint_tree\paint_tree\obj\Debug\paint_tree.csproj.GenerateResource.cache
+C:\Users\l\Desktop\大二第二学期课程资料\c#\代码部分\控制台项目\paint_tree\paint_tree\obj\Debug\paint_tree.csproj.CoreCompileInputs.cache
+C:\Users\l\Desktop\大二第二学期课程资料\c#\代码部分\控制台项目\paint_tree\paint_tree\bin\Debug\paint_tree.exe.config
+C:\Users\l\Desktop\大二第二学期课程资料\c#\代码部分\控制台项目\paint_tree\paint_tree\bin\Debug\paint_tree.exe
+C:\Users\l\Desktop\大二第二学期课程资料\c#\代码部分\控制台项目\paint_tree\paint_tree\bin\Debug\paint_tree.pdb
+C:\Users\l\Desktop\大二第二学期课程资料\c#\代码部分\控制台项目\paint_tree\paint_tree\obj\Debug\paint_tree.exe
+C:\Users\l\Desktop\大二第二学期课程资料\c#\代码部分\控制台项目\paint_tree\paint_tree\obj\Debug\paint_tree.pdb
